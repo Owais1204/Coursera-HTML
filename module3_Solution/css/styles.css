@@ -5,7 +5,7 @@ body {
 	background-color: #7FFCB0;
 	border-radius: 0;
 	border-bottom: 2px solid black;
-
+	padding: 15px;
 }
 .navbar-brand {
 	font-size: 5vw;
